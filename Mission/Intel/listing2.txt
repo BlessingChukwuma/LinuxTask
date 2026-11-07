@@ -1,0 +1,6 @@
+total 4
+-rw-rw-r-- 1 agent007 agent007  0 Nov  6 09:05 keys.txt
+-rw-rw-r-- 1 agent007 agent007 45 Nov  6 09:06 listing1.txt
+-rw-rw-r-- 1 agent007 agent007  0 Nov  6 09:07 listing2.txt
+-rw-rw-r-- 1 agent007 agent007  0 Nov  6 09:05 routes.txt
+-rw-rw-r-- 1 agent007 agent007  0 Nov  6 09:05 targets.txt

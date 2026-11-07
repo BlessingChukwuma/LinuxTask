@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+*.bak
+__pycache__/
+*.py[cod]
+.env
+.env.*
+# Do not ignore required evidence or submission templates.

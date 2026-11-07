@@ -1,0 +1,3 @@
+[PASTE THE ACTUAL OUTPUT OF: ls -laR /home/agent007/mission/]
+
+Do not invent owners, permissions, sizes, or timestamps.
